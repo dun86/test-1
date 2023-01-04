@@ -11,7 +11,7 @@ header {
 }
 
 main {
-  width: 100%;
+  width: 960px;
   margin: 50px auto;
   display: flex;
 }
@@ -75,6 +75,7 @@ header {
 }
 
 main {
+  width: 100%;
   display: block;
   margin-left: 5%;
   margin-right: 5%;
